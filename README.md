@@ -69,3 +69,7 @@ The tool expects at least one subfolder under `...\Ride\Saved\Config` (commonly 
 - It creates a backup before overwriting.
 
 ---
+
+## Download From Releases on Right Side
+
+---
